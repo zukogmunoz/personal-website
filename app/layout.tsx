@@ -17,16 +17,16 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://nalu.dev'),
   title: {
-    default: 'Nalú Muñoz | Ssr Software Engineer',
+    default: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
     template: '%s | Nalú Muñoz'
   },
-  description: 'Ssr Software Engineer especializado en desarrollo Mobile & Fullstack. +4 años construyendo aplicaciones escalables con React y React Native.',
+  description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.',
   keywords: ['Software Engineer', 'React', 'React Native', 'Mobile Developer', 'Fullstack', 'TypeScript', 'Next.js', 'Fintech', 'Clean Architecture'],
   authors: [{ name: 'Nalú Muñoz' }],
   creator: 'Nalú Muñoz',
   openGraph: {
-    title: 'Nalú Muñoz | Ssr Software Engineer',
-    description: 'Ssr Software Engineer especializado en desarrollo Mobile & Fullstack.',
+    title: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
+    description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     url: 'https://nalu.dev',
     siteName: 'Nalú Muñoz Portfolio',
     locale: 'es_ES',
@@ -36,14 +36,14 @@ export const metadata: Metadata = {
         url: '/icon.svg',
         width: 1200,
         height: 630,
-        alt: 'Nalú Muñoz | Ssr Software Engineer',
+        alt: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Nalú Muñoz | Ssr Software Engineer',
-    description: 'Ssr Software Engineer especializado en desarrollo Mobile & Fullstack.',
+    title: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
+    description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     images: ['/icon.svg'],
   },
   alternates: {

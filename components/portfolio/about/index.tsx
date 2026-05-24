@@ -28,7 +28,7 @@ export function About() {
 
             <AboutPhoto
               imageSrc="/images/nalu-profile.jpg"
-              alt="Nalú Muñoz - Ssr Software Engineer"
+              alt="Senior React Native & Frontend Engineer"
               name={t.about.photoName}
               role={t.about.photoRole}
               location={t.about.photoLocation}
