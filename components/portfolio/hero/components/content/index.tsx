@@ -1,6 +1,6 @@
 "use client";
 
-import { MapPin } from "lucide-react";
+import { MapPin, CheckCircle2 } from "lucide-react";
 import { HeroButtons } from "../buttons";
 import { HeroSocialLinks } from "../socialLinks";
 import { HeroContentProps } from "./types";
@@ -13,26 +13,41 @@ import { HeroContentProps } from "./types";
  */
 export function HeroContent({ translations, socialLinks }: HeroContentProps) {
     return (
-        <div className="space-y-8">
-            <div className="space-y-4">
-                <div className="flex items-center gap-2 text-primary text-sm font-mono">
-                    <span className="inline-block w-2 h-2 rounded-full bg-primary animate-pulse" />
+        <div className="space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-1000">
+            <div className="space-y-6">
+                <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-bold uppercase tracking-wider">
+                    <span className="relative flex h-2 w-2">
+                        <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
+                        <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
+                    </span>
                     {translations.available}
                 </div>
 
-                <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight text-balance">
-                    {translations.name}
-                </h1>
+                <div className="space-y-2">
+                    <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold text-foreground leading-tight tracking-tight text-balance">
+                        {translations.name}
+                    </h1>
+                    <p className="text-2xl sm:text-3xl lg:text-4xl text-primary font-bold tracking-tight">
+                        {translations.role}
+                    </p>
+                </div>
 
-                <p className="text-xl sm:text-2xl text-primary font-medium">
-                    {translations.role}
+                <p className="text-lg sm:text-xl text-muted-foreground leading-relaxed max-w-2xl text-balance">
+                    {translations.description}
                 </p>
 
-                <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-                    {translations.description.split('React')[0]}
-                    <span className="text-foreground">React</span> y{" "}
-                    <span className="text-foreground">React Native</span>.
+                <p className="text-sm sm:text-base font-mono text-primary/70 font-medium tracking-tight">
+                    {translations.stackLine}
                 </p>
+
+                <div className="flex flex-wrap gap-y-3 gap-x-6 pt-2">
+                    {translations.highlights?.map((highlight) => (
+                        <div key={highlight} className="flex items-center gap-2 text-foreground/90 text-sm sm:text-base font-semibold">
+                            <CheckCircle2 size={18} className="text-primary shrink-0" />
+                            <span>{highlight}</span>
+                        </div>
+                    ))}
+                </div>
             </div>
 
             <div className="flex items-center gap-4 text-muted-foreground text-sm">
@@ -42,12 +57,14 @@ export function HeroContent({ translations, socialLinks }: HeroContentProps) {
                 </div>
             </div>
 
-            <HeroButtons
-                ctaText={translations.cta}
-                ctaSecondaryText={translations.ctaSecondary}
-            />
-
-            <HeroSocialLinks links={socialLinks} />
+            <div className="flex flex-col sm:flex-row items-center gap-6">
+                <HeroButtons
+                    ctaText={translations.cta}
+                    ctaSecondaryText={translations.ctaSecondary}
+                />
+                <div className="hidden sm:block w-px h-8 bg-border" />
+                <HeroSocialLinks links={socialLinks} />
+            </div>
         </div>
     );
 }

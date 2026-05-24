@@ -2,13 +2,15 @@
 
 import { useState, useEffect } from "react"
 import Link from "next/link"
-import { Menu, X, Globe } from "lucide-react"
+import { Menu, X, Globe, Linkedin } from "lucide-react"
 import { useLanguage } from "@/lib/language-context"
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const { language, setLanguage, t } = useLanguage()
+
+  const linkedinUrl = "https://linkedin.com/in/naludev"
 
   useEffect(() => {
     const handleScroll = () => {
@@ -40,7 +42,7 @@ export function Header() {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-8">
+          <div className="hidden md:flex items-center gap-6">
             <ul className="flex items-center gap-8">
               {t.header.navItems.map((item) => (
                 <li key={item.href}>
@@ -54,19 +56,42 @@ export function Header() {
               ))}
             </ul>
             
-            {/* Language Toggle */}
-            <button
-              onClick={toggleLanguage}
-              className="flex items-center gap-2 px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground border border-border rounded-lg hover:bg-secondary transition-colors"
-              aria-label="Toggle language"
-            >
-              <Globe size={16} />
-              <span className="font-mono">{language.toUpperCase()}</span>
-            </button>
+            <div className="w-px h-4 bg-border mx-2" />
+
+            <div className="flex items-center gap-4">
+              <a
+                href={linkedinUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-muted-foreground hover:text-primary transition-colors"
+                aria-label="LinkedIn"
+              >
+                <Linkedin size={20} />
+              </a>
+
+              {/* Language Toggle */}
+              <button
+                onClick={toggleLanguage}
+                className="flex items-center gap-2 px-3 py-1.5 text-sm text-muted-foreground hover:text-foreground border border-border rounded-lg hover:bg-secondary transition-colors"
+                aria-label="Toggle language"
+              >
+                <Globe size={16} />
+                <span className="font-mono">{language.toUpperCase()}</span>
+              </button>
+            </div>
           </div>
 
           {/* Mobile Menu Button */}
-          <div className="flex items-center gap-4 md:hidden">
+          <div className="flex items-center gap-3 md:hidden">
+            <a
+              href={linkedinUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="p-2 text-muted-foreground hover:text-primary transition-colors"
+              aria-label="LinkedIn"
+            >
+              <Linkedin size={20} />
+            </a>
             <button
               onClick={toggleLanguage}
               className="flex items-center gap-1 px-2 py-1 text-sm text-muted-foreground border border-border rounded-lg"

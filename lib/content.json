@@ -25,29 +25,37 @@
       ]
     },
     "hero": {
-      "available": "Disponible para nuevos proyectos",
+      "available": "Disponible para trabajo remoto — LATAM / Worldwide",
       "name": "Nalú Muñoz",
-      "role": "Ssr Software Engineer",
-      "description": "+4 años construyendo aplicaciones móviles y web escalables en fintech, e-commerce y SaaS. Especializado en ",
-      "location": "Montevideo, Uruguay",
-      "cta": "Contactar",
+      "role": "Senior Frontend & Mobile Engineer",
+      "description": "Especialista en fintech, mobile banking y plataformas escalables con +4 años de experiencia.",
+      "location": "Buenos Aires, Argentina",
+      "cta": "Agendar llamada",
       "ctaSecondary": "Ver Experiencia",
-      "codeComment": "// Ssr Software Engineer",
+      "stackLine": "React Native • TypeScript • Next.js • Fintech • Mobile Payments • SaaS",
+      "codeComment": "// Senior Frontend & Mobile Engineer",
       "stats": {
         "years": "Años de experiencia",
-        "code": "Código limpio"
-      }
+        "code": "Proyectos Fintech"
+      },
+      "highlights": [
+        "4+ años de experiencia",
+        "Especialista en React Native",
+        "Fintech y Pagos",
+        "Inglés Profesional",
+        "Disponibilidad Inmediata"
+      ]
     },
     "about": {
-      "sectionLabel": "// Sobre mí",
-      "title": "Construyo experiencias digitales que importan",
+      "sectionLabel": "// Perfil",
+      "title": "Senior React Native & Frontend Engineer",
       "photoName": "Nalú Muñoz",
-      "photoRole": "Ssr Software Engineer",
-      "photoLocation": "Montevideo, Uruguay",
+      "photoRole": "Senior Frontend & Mobile Engineer",
+      "photoLocation": "Buenos Aires, Argentina",
       "paragraphs": [
-        "Soy un ingeniero de software apasionado por crear aplicaciones móviles y web que no solo funcionan, sino que",
-        "escalan y perduran",
-        ". Mi experiencia abarca desde apps bancarias hasta plataformas de e-commerce headless."
+        "Senior React Native & Frontend Engineer con más de 4 años construyendo productos fintech, e-commerce y SaaS utilizados por miles de usuarios en LATAM y Europa.",
+        "con foco en performance, mantenibilidad y experiencia de usuario.",
+        " Mi experiencia abarca el desarrollo de plataformas de banca móvil, pagos, transacciones QR y comercio headless utilizando React Native y Next.js."
       ],
       "paragraph2": {
         "text": "En los últimos 4 años, he trabajado con equipos en",
@@ -56,9 +64,9 @@
           "Broken Rubik",
           "Globant"
         ],
-        "suffix": ", construyendo productos que millones de usuarios utilizan a diario."
+        "suffix": ", construyendo productos que miles de usuarios utilizan a diario."
       },
-      "paragraph3": "Mi enfoque: código limpio, arquitectura sólida y una obsesión por la experiencia del usuario. Cada línea de código que escribo tiene un propósito claro.",
+      "paragraph3": "Mi enfoque: foco en performance, mantenibilidad y experiencia de usuario. Cada línea de código que escribo tiene un propósito claro.",
       "features": {
         "mobileFirst": {
           "title": "Mobile First",
@@ -69,8 +77,8 @@
           "description": "Desde el frontend hasta el backend, construyo soluciones completas."
         },
         "cleanCode": {
-          "title": "Código Limpio",
-          "description": "TypeScript, testing y arquitectura que escala con tu negocio."
+          "title": "Arquitectura Escalable",
+          "description": "Aplicaciones mantenibles, performantes y preparadas para crecer."
         },
         "performance": {
           "title": "Performance",
@@ -84,16 +92,12 @@
       "jobs": [
         {
           "company": "Sofka",
-          "role": "Ssr Mobile Engineer",
+          "role": "Senior Mobile Engineer",
           "period": "Oct 2024 – Feb 2026",
           "description": [
-            "Desarrollé y mantuve una aplicación móvil de banca (Diners) para clientes premium utilizando React Native y TypeScript, garantizando una experiencia segura y escalable.",
-            "Construí funcionalidades tanto en la aplicación móvil como en la plataforma de administración, asegurando consistencia entre la experiencia de usuario y las herramientas de configuración interna.",
-            "Implementé un sistema de configuración dinámica (temas, branding, contenido) que permite actualizaciones en tiempo real sin necesidad de nuevos despliegues de la aplicación.",
-            "Lideré el desarrollo de funcionalidades financieras centrales como billetera, transferencias, pagos QR y flujos de transacciones.",
-            "Integré autenticación biométrica (Facephi) para elevar los estándares de seguridad y optimizar la experiencia del usuario.",
-            "Colaboré con equipos de backend y producto para entregar funcionalidades confiables y escalables en un entorno fintech.",
-            "Contribuí a mejorar la flexibilidad y los procesos de lanzamiento mediante el desacoplamiento de la configuración de las builds de mobile."
+            "Lideré el desarrollo de la app móvil de banca (Diners) para clientes premium, mejorando la seguridad y escalabilidad con React Native.",
+            "Implementé un sistema de configuración dinámica que permitió actualizaciones de branding y contenido en tiempo real sin nuevos despliegues.",
+            "Integré autenticación biométrica avanzada y flujos financieros críticos (transacciones QR, billetera), elevando la confianza del usuario final."
           ],
           "technologies": [
             "React Native",
@@ -110,12 +114,12 @@
         },
         {
           "company": "Broken Rubik",
-          "role": "Ssr Software Developer (Ssr lvl3)",
+          "role": "Senior Software Developer",
           "period": "Nov 2022 – Mar 2024",
           "description": [
-            "Lideré el desarrollo de una plataforma de e-commerce headless (React + Medusa + NetSuite), habilitando arquitectura modular y mejorando la escalabilidad.",
-            "Construí y lancé un CMS personalizado usando Sanity, permitiendo a stakeholders no técnicos crear y gestionar landing pages → reduciendo la participación de desarrolladores en ~40%.",
-            "Integré sistemas de backend complejos (NetSuite + SuiteScript), asegurando consistencia de datos y rendimiento estable en producción."
+            "Lideré el desarrollo de una plataforma e-commerce headless integrada con Medusa y NetSuite, mejorando la modularidad y escalabilidad.",
+            "Construí un CMS personalizado con Sanity que permitió a stakeholders gestionar contenidos de forma autónoma, reduciendo la carga de desarrollo en 40%.",
+            "Integré sistemas complejos de backend (NetSuite + SuiteScript) asegurando consistencia de datos y rendimiento estable en producción."
           ],
           "technologies": [
             "React",
@@ -128,13 +132,12 @@
         },
         {
           "company": "Globant",
-          "role": "Ssr Mobile Developer / Web UI Developer",
+          "role": "Senior Mobile & Web UI Developer",
           "period": "Dic 2021 – Nov 2022",
           "description": [
-            "Desarrollé una aplicación móvil para Alsea España usando React Native y Redux Toolkit, mejorando visibilidad de promociones y consistencia multi-marca.",
-            "Aumenté la eficiencia operacional en 40% mediante mejoras de UX y automatización de workflows.",
-            "Diseñé e implementé funcionalidades de publicación de empleos, perfiles de usuario y features basadas en geolocalización.",
-            "Integré procesamiento de pagos (Celero), mejorando el flujo de transacciones y conversión de usuarios."
+            "Desarrollé la aplicación móvil para Alsea España, aumentando la eficiencia operativa en 40% mediante mejoras de UX y automatización.",
+            "Diseñé e implementé funcionalidades clave basadas en geolocalización y perfiles de usuario para una base masiva de clientes multi-marca.",
+            "Integré sistemas de procesamiento de pagos (Celero) y fidelización, mejorando el flujo de transacciones y conversión de usuarios."
           ],
           "technologies": [
             "React Native",
@@ -255,7 +258,7 @@
       "items": [
         {
           "title": "Banca Mobile Premium (Diners)",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "Sofka",
           "year": "2024-2026",
           "description": "Aplicación bancaria móvil para clientes premium con transacciones, wallet management, pagos QR y autenticación biométrica (Facephi). Incluye plataforma de administración dinámica para configuración en tiempo real y arquitectura hexagonal.",
@@ -275,7 +278,7 @@
         },
         {
           "title": "Headless E-commerce & CMS",
-          "type": "E-commerce Platform",
+          "type": "Plataforma de E-commerce",
           "company": "Broken Rubik",
           "year": "2022-2024",
           "description": "Lideré el desarrollo de una plataforma e-commerce headless integrada con Medusa y NetSuite. Consumo de datos en tiempo real y arquitectura orientada a performance.",
@@ -295,7 +298,7 @@
         },
         {
           "title": "Oborne Health Supplies",
-          "type": "Web Platform",
+          "type": "Plataforma Web",
           "company": "Broken Rubik",
           "year": "2022-2024",
           "description": "Mantenimiento y evolución de una plataforma de venta de productos farmacéuticos y homeopáticos. Integra eficientemente a pacientes y médicos.",
@@ -313,7 +316,7 @@
         },
         {
           "title": "Club Alsea España",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "Globant",
           "year": "2022",
           "description": "Aplicación móvil para el club de fidelización de restaurantes de Alsea, con foco en gestión unificada de marca y visibilidad de promociones.",
@@ -325,12 +328,12 @@
           "highlights": [
             "Fidelización masiva",
             "Gestión Multi-marca",
-            "App member club"
+            "App de membresía"
           ]
         },
         {
           "title": "160 Driving Academy",
-          "type": "Web Platform",
+          "type": "Plataforma Web",
           "company": "Globant",
           "year": "2021-2022",
           "description": "Plataforma de búsqueda de empleo para conductores de camiones, aumentando la eficiencia del proceso en un 40%. Incluye mapas avanzados y pagos integrados.",
@@ -348,7 +351,7 @@
         },
         {
           "title": "Empowered Brain",
-          "type": "AR & Web platform",
+          "type": "Plataforma AR & Web",
           "company": "Independent Developer",
           "year": "2021",
           "description": "Aplicaciones y juegos de realidad aumentada (Google Glass) para niños con necesidades especiales (autismo). Gestión de estudiantes y evaluaciones de rendimiento.",
@@ -367,7 +370,7 @@
         },
         {
           "title": "Santander Mobile Banking",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "Independent Developer",
           "year": "2021",
           "description": "App de banca móvil con funcionalidades completas: gestión de sesiones, pagos de servicios, facturas e integración con pasarelas de pago seguras.",
@@ -385,7 +388,7 @@
         },
         {
           "title": "Aladi - Rueda de Negocios",
-          "type": "Web Platform",
+          "type": "Plataforma Web",
           "company": "Shaman Studio",
           "year": "2021",
           "description": "Plataforma de videoconferencias y networking para importadores y exportadores de Latinoamérica. Organización de reuniones y gestión de productos.",
@@ -403,7 +406,7 @@
         },
         {
           "title": "Tu Shopper",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "DIXTRA",
           "year": "2020",
           "description": "Aplicación móvil enfocada en la gestión de productos y compras mediante escáner de códigos de barras integrado en la tienda.",
@@ -421,7 +424,7 @@
         },
         {
           "title": "Nippy for Delivery",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "DIXTRA",
           "year": "2020",
           "description": "Aplicación para trabajadores independientes (Riders de delivery) que centraliza beneficios y oportunidades laborales.",
@@ -438,7 +441,7 @@
         },
         {
           "title": "Corporate Landing Page",
-          "type": "Web Page",
+          "type": "Página Web",
           "company": "DIXTRA",
           "year": "2020",
           "description": "Landing page dinámica con blog integrado y gestión de contenidos mediante CMS. SEO optimizado y performance excepcional.",
@@ -457,7 +460,7 @@
         },
         {
           "title": "UES GO",
-          "type": "Mobile App",
+          "type": "Aplicación Móvil",
           "company": "DIXTRA",
           "year": "2020",
           "description": "Aplicación móvil logística para la entrega de pedidos. Seguimiento en tiempo real vía mapas y soluciones de pago integradas.",
@@ -481,7 +484,7 @@
       "subtitle": "Ya sea que necesites una aplicación móvil, una plataforma web o un equipo técnico reforzado, estoy aquí para ayudar. Enviame un mensaje y conversemos sobre tu proyecto.",
       "email": "Email",
       "location": "Ubicación",
-      "locationValue": "Montevideo, Uruguay",
+      "locationValue": "Buenos Aires, Argentina",
       "directConnect": "O conecta directamente",
       "sendEmail": "Enviar email",
       "form": {
@@ -496,7 +499,7 @@
       }
     },
     "footer": {
-      "role": "Ssr Software Engineer",
+      "role": "Senior Frontend & Mobile Engineer",
       "rights": "Todos los derechos reservados."
     }
   },
@@ -526,29 +529,37 @@
       ]
     },
     "hero": {
-      "available": "Available for new projects",
+      "available": "Available for remote work — LATAM / Worldwide",
       "name": "Nalú Muñoz",
-      "role": "Ssr Software Engineer",
-      "description": "+4 years building scalable mobile and web applications in fintech, e-commerce, and SaaS. Specialized in ",
-      "location": "Montevideo, Uruguay",
-      "cta": "Contact",
+      "role": "Senior Frontend & Mobile Engineer",
+      "description": "Specialized in fintech, mobile banking, and scalable platforms with 4+ years experience.",
+      "location": "Buenos Aires, Argentina",
+      "cta": "Schedule a call",
       "ctaSecondary": "View Experience",
-      "codeComment": "// Ssr Software Engineer",
+      "stackLine": "React Native • TypeScript • Next.js • Fintech • Mobile Payments • SaaS",
+      "codeComment": "// Senior Frontend & Mobile Engineer",
       "stats": {
         "years": "Years of experience",
-        "code": "Clean code"
-      }
+        "code": "Fintech Projects"
+      },
+      "highlights": [
+        "4+ years experience",
+        "React Native Specialist",
+        "Fintech & Payments",
+        "English Professional",
+        "Available Immediately"
+      ]
     },
     "about": {
-      "sectionLabel": "// About me",
-      "title": "I build digital experiences that matter",
+      "sectionLabel": "// Profile",
+      "title": "Senior React Native & Frontend Engineer",
       "photoName": "Nalú Muñoz",
-      "photoRole": "Ssr Software Engineer",
-      "photoLocation": "Montevideo, Uruguay",
+      "photoRole": "Senior Frontend & Mobile Engineer",
+      "photoLocation": "Buenos Aires, Argentina",
       "paragraphs": [
-        "I'm a software engineer passionate about creating mobile and web applications that not only work, but",
-        "scale and last",
-        ". My experience ranges from banking apps to headless e-commerce platforms."
+        "Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.",
+        "focus on performance, maintainability and user experience.",
+        " Experienced working in remote product teams delivering mobile banking, payments, QR transactions and headless commerce platforms using React Native and Next.js."
       ],
       "paragraph2": {
         "text": "Over the last 4 years, I've worked with teams at",
@@ -557,9 +568,9 @@
           "Broken Rubik",
           "Globant"
         ],
-        "suffix": ", building products that millions of users use daily."
+        "suffix": ", building products that thousands of users use daily."
       },
-      "paragraph3": "My approach: clean code, solid architecture, and an obsession with user experience. Every line of code I write has a clear purpose.",
+      "paragraph3": "My approach: focus on performance, maintainability and user experience. Every line of code I write has a clear purpose.",
       "features": {
         "mobileFirst": {
           "title": "Mobile First",
@@ -570,8 +581,8 @@
           "description": "From frontend to backend, I build complete solutions."
         },
         "cleanCode": {
-          "title": "Clean Code",
-          "description": "TypeScript, testing, and architecture that scales with your business."
+          "title": "Scalable Architecture",
+          "description": "Maintainable, performant applications ready for scale."
         },
         "performance": {
           "title": "Performance",
@@ -585,16 +596,12 @@
       "jobs": [
         {
           "company": "Sofka",
-          "role": "Ssr Mobile Engineer",
+          "role": "Senior Mobile Engineer",
           "period": "Oct 2024 – Feb 2026",
           "description": [
-            "Developed and maintained a mobile banking application (Diners) using React Native and TypeScript, contributing to a secure and scalable experience for premium users.",
-            "Built features across both the mobile app and admin platform, ensuring consistency between user experience and internal configuration tools.",
-            "Implemented a dynamic configuration system (theming, branding, content) allowing real-time updates without requiring app redeployments.",
-            "Worked on core financial functionalities including wallet, transfers, QR payments, and transaction flows.",
-            "Integrated biometric authentication (Facephi) to improve security and user experience.",
-            "Collaborated with backend and product teams to deliver reliable features in a fintech environment.",
-            "Contributed to improving flexibility and release processes by decoupling configuration from mobile builds."
+            "Led development of the mobile banking app (Diners) for premium clients, significantly improving security and scalability with React Native.",
+            "Implemented a dynamic configuration system enabling real-time branding and content updates without requiring app redeployments.",
+            "Integrated advanced biometric authentication and core financial flows (QR payments, wallet), increasing end-user trust and engagement."
           ],
           "technologies": [
             "React Native",
@@ -611,12 +618,12 @@
         },
         {
           "company": "Broken Rubik",
-          "role": "Ssr Software Developer (Ssr lvl3)",
+          "role": "Senior Software Developer",
           "period": "Nov 2022 – Mar 2024",
           "description": [
-            "Led development of a headless e-commerce platform (React + Medusa + NetSuite), enabling modular architecture and improving scalability.",
-            "Built and launched a custom CMS using Sanity, allowing non-technical stakeholders to create and manage landing pages → reducing developer involvement by ~40%.",
-            "Integrated complex backend systems (NetSuite + SuiteScript), ensuring data consistency and stable production performance."
+            "Led development of a headless e-commerce platform integrated with Medusa and NetSuite, improving modularity and scalability.",
+            "Built a custom CMS with Sanity allowing stakeholders to manage content autonomously, reducing dev involvement by 40%.",
+            "Integrated complex backend systems (NetSuite + SuiteScript) ensuring data consistency and stable production performance."
           ],
           "technologies": [
             "React",
@@ -629,13 +636,12 @@
         },
         {
           "company": "Globant",
-          "role": "Ssr Mobile Developer / Web UI Developer",
+          "role": "Senior Mobile & Web UI Developer",
           "period": "Dec 2021 – Nov 2022",
           "description": [
-            "Developed a mobile app for Alsea Spain using React Native and Redux Toolkit, improving promotion visibility and multi-brand consistency.",
-            "Increased operational efficiency by 40% through UX improvements and workflow automation.",
-            "Designed and implemented job posting features, user profiles, and geolocation-based features.",
-            "Integrated payment processing (Celero), improving transaction flow and user conversion."
+            "Developed a mobile app for Alsea Spain, increasing operational efficiency by 40% through UX improvements and automation.",
+            "Designed and implemented key features based on geolocation and user profiles for a massive multi-brand customer base.",
+            "Integrated payment processing (Celero) and loyalty systems, improving transaction flow and user conversion."
           ],
           "technologies": [
             "React Native",
@@ -776,7 +782,7 @@
         },
         {
           "title": "Headless E-commerce & CMS",
-          "type": "Ecommerce Platform",
+          "type": "Plataforma de E-commerce",
           "company": "Broken Rubik",
           "year": "2022-2024",
           "description": "Led development of a headless e-commerce platform integrated with Medusa and NetSuite. Real-time data consumption and performance-driven architecture.",
@@ -982,7 +988,7 @@
       "subtitle": "Whether you need a mobile app, a web platform, or a reinforced technical team, I'm here to help. Send me a message and let's discuss your project.",
       "email": "Email",
       "location": "Location",
-      "locationValue": "Montevideo, Uruguay",
+      "locationValue": "Buenos Aires, Argentina",
       "directConnect": "Or connect directly",
       "sendEmail": "Send email",
       "form": {
@@ -997,7 +1003,7 @@
       }
     },
     "footer": {
-      "role": "Ssr Software Engineer",
+      "role": "Senior Frontend & Mobile Engineer",
       "rights": "All rights reserved."
     }
   }

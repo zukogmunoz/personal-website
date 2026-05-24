@@ -20,6 +20,8 @@ export interface TranslationsProps {
     location: string;
     cta: string;
     ctaSecondary: string;
+    stackLine: string;
     codeComment: string;
     stats: StatsProps;
+    highlights: string[];
 }

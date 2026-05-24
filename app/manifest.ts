@@ -4,7 +4,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: 'Nalú Muñoz Portfolio',
     short_name: 'Nalú Muñoz',
-    description: 'Portfolio profesional de Nalú Muñoz, Ssr Software Engineer.',
+    description: 'Senior React Native & Frontend Engineer',
     start_url: '/',
     display: 'standalone',
     background_color: '#0d1117',
