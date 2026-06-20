@@ -2,8 +2,8 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Nalú Muñoz Portfolio',
-    short_name: 'Nalú Muñoz',
+    name: 'Zukog Muñoz Portfolio',
+    short_name: 'Zukog Muñoz',
     description: 'Senior React Native & Frontend Engineer',
     start_url: '/',
     display: 'standalone',

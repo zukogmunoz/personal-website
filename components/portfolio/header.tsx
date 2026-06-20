@@ -38,7 +38,7 @@ export function Header() {
             href="/"
             className="text-xl font-semibold text-foreground hover:text-primary transition-colors"
           >
-            nalú<span className="text-primary">.</span>dev
+            zukog<span className="text-primary">.</span>dev
           </Link>
 
           {/* Desktop Navigation */}
