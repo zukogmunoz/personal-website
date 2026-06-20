@@ -17,18 +17,18 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL('https://nalu.dev'),
   title: {
-    default: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
-    template: '%s | Nalú Muñoz'
+    default: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
+    template: '%s | Zukog Muñoz'
   },
   description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.',
   keywords: ['Software Engineer', 'React', 'React Native', 'Mobile Developer', 'Fullstack', 'TypeScript', 'Next.js', 'Fintech', 'Clean Architecture'],
-  authors: [{ name: 'Nalú Muñoz' }],
-  creator: 'Nalú Muñoz',
+  authors: [{ name: 'Zukog Muñoz' }],
+  creator: 'Zukog Muñoz',
   openGraph: {
-    title: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
+    title: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
     description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     url: 'https://nalu.dev',
-    siteName: 'Nalú Muñoz Portfolio',
+    siteName: 'Zukog Muñoz Portfolio',
     locale: 'es_ES',
     type: 'website',
     images: [
@@ -36,13 +36,13 @@ export const metadata: Metadata = {
         url: '/icon.svg',
         width: 1200,
         height: 630,
-        alt: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
+        alt: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Nalú Muñoz | Senior Frontend & Mobile Engineer',
+    title: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
     description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     images: ['/icon.svg'],
   },

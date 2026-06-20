@@ -20,7 +20,7 @@ export function Footer() {
               href="/"
               className="text-xl font-semibold text-foreground"
             >
-              nalú<span className="text-primary">.</span>dev
+              zukog<span className="text-primary">.</span>dev
             </Link>
             <p className="text-sm text-muted-foreground">
               {t.footer.role}
@@ -49,7 +49,7 @@ export function Footer() {
 
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Nalú Muñoz. {t.footer.rights}
+            © {new Date().getFullYear()} Zukog Muñoz. {t.footer.rights}
           </p>
         </div>
       </div>

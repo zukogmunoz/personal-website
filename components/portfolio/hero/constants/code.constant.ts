@@ -10,7 +10,7 @@
  */
 export const CODE_BLOCK = {
     developer: {
-        name: "Nalú Muñoz",
+        name: "Zukog Muñoz",
         role: "Mobile & Fullstack",
         experience: 4,
         stack: ["React", "React Native", "TypeScript", "Next.js", "Node.js"],
