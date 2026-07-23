@@ -20,7 +20,7 @@ export function HeroCodeBlock({ data, comment }: CodeBlockProps) {
           <div className="w-3 h-3 rounded-full bg-yellow-500/70" />
           <div className="w-3 h-3 rounded-full bg-green-500/70" />
           <span className="ml-4 text-xs text-muted-foreground font-mono">
-            nalu-profile.ts
+            zukog-profile.ts
           </span>
         </div>
         <pre className="p-6 text-sm font-mono overflow-x-auto">

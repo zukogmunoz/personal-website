@@ -29,7 +29,7 @@ export function Footer() {
 
           <div className="flex items-center gap-6">
             <Link
-              href="https://linkedin.com/in/naludev"
+              href="https://linkedin.com/in/zukog"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -38,7 +38,7 @@ export function Footer() {
               <Linkedin size={20} />
             </Link>
             <Link
-              href="mailto:nalum.dev@gmail.com"
+              href="mailto:zukogmunoz@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >

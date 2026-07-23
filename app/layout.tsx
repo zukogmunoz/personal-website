@@ -15,7 +15,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://nalu.dev'),
+  metadataBase: new URL('https://zukog.dev'),
   title: {
     default: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
     template: '%s | Zukog Muñoz'
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Zukog Muñoz | Senior Frontend & Mobile Engineer',
     description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
-    url: 'https://nalu.dev',
+    url: 'https://zukog.dev',
     siteName: 'Zukog Muñoz Portfolio',
     locale: 'es_ES',
     type: 'website',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     images: ['/icon.svg'],
   },
   alternates: {
-    canonical: 'https://nalu.dev',
+    canonical: 'https://zukog.dev',
     languages: {
       'es-ES': '/?lang=es',
       'en-US': '/?lang=en',
