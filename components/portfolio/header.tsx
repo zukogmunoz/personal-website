@@ -10,7 +10,7 @@ export function Header() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
   const { language, setLanguage, t } = useLanguage()
 
-  const linkedinUrl = "https://linkedin.com/in/naludev"
+  const linkedinUrl = "https://linkedin.com/in/zukog"
 
   useEffect(() => {
     const handleScroll = () => {

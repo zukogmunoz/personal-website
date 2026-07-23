@@ -19,7 +19,7 @@ export const useContactForm = (initialData: FormDataProps) => {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        const mailtoLink = `mailto:nalum.dev@gmail.com?subject=Contacto desde Portfolio - ${formData.name}&body=${encodeURIComponent(
+        const mailtoLink = `mailto:zukogmunoz@gmail.com?subject=Contacto desde Portfolio - ${formData.name}&body=${encodeURIComponent(
             formData.message
         )}%0A%0AEmail: ${formData.email}`;
         window.location.href = mailtoLink;

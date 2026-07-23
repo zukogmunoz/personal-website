@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://nalu.dev/sitemap.xml',
+    sitemap: 'https://zukog.dev/sitemap.xml',
   }
 }
