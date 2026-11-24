@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: '/private/',
     },
-    sitemap: 'https://yannmunoz.netlify.app/sitemap.xml',
+    sitemap: 'https://zukogmunoz.netlify.app/sitemap.xml',
   }
 }
