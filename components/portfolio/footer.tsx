@@ -20,7 +20,7 @@ export function Footer() {
               href="/"
               className="text-xl font-semibold text-foreground"
             >
-              yann<span className="text-primary">.</span>dev
+              zukog<span className="text-primary">.</span>dev
             </Link>
             <p className="text-sm text-muted-foreground">
               {t.footer.role}
@@ -29,7 +29,7 @@ export function Footer() {
 
           <div className="flex items-center gap-6">
             <Link
-              href="https://linkedin.com/in/yannmunoz"
+              href="https://linkedin.com/in/zukogmunoz"
               target="_blank"
               rel="noopener noreferrer"
               className="text-muted-foreground hover:text-primary transition-colors"
@@ -38,7 +38,7 @@ export function Footer() {
               <Linkedin size={20} />
             </Link>
             <Link
-              href="mailto:yannm.dev@gmail.com"
+              href="mailto:zukogmunoz@gmail.com"
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Email"
             >
@@ -49,7 +49,7 @@ export function Footer() {
 
         <div className="mt-8 pt-8 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Yann Muñoz. {t.footer.rights}
+            © {new Date().getFullYear()} Zukog {t.footer.rights}
           </p>
         </div>
       </div>

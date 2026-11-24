@@ -26,14 +26,14 @@
     },
     "hero": {
       "available": "Disponible para trabajo remoto — LATAM / Worldwide",
-      "name": "Yann Muñoz",
-      "role": "Senior Frontend & Mobile Engineer",
+      "name": "Zukog",
+      "role": "Middle Frontend & Mobile Engineer",
       "description": "Especialista en fintech, mobile banking y plataformas escalables con +4 años de experiencia.",
-      "location": "Buenos Aires, Argentina",
+      "location": "Chaco, Argentina",
       "cta": "Agendar llamada",
       "ctaSecondary": "Ver Experiencia",
       "stackLine": "React Native • TypeScript • Next.js • Fintech • Mobile Payments • SaaS",
-      "codeComment": "// Senior Frontend & Mobile Engineer",
+      "codeComment": "// Middle Frontend & Mobile Engineer",
       "stats": {
         "years": "Años de experiencia",
         "code": "Proyectos Fintech"
@@ -48,12 +48,12 @@
     },
     "about": {
       "sectionLabel": "// Perfil",
-      "title": "Senior React Native & Frontend Engineer",
-      "photoName": "Yann Muñoz",
-      "photoRole": "Senior Frontend & Mobile Engineer",
-      "photoLocation": "Buenos Aires, Argentina",
+      "title": "Middle React Native & Frontend Engineer",
+      "photoName": "Zukog",
+      "photoRole": "Middle Frontend & Mobile Engineer",
+      "photoLocation": "Chaco, Argentina",
       "paragraphs": [
-        "Senior React Native & Frontend Engineer con más de 4 años construyendo productos fintech, e-commerce y SaaS utilizados por miles de usuarios en LATAM y Europa.",
+        "Middle React Native & Frontend Engineer con más de 4 años construyendo productos fintech, e-commerce y SaaS utilizados por miles de usuarios en LATAM y Europa.",
         "con foco en performance, mantenibilidad y experiencia de usuario.",
         " Mi experiencia abarca el desarrollo de plataformas de banca móvil, pagos, transacciones QR y comercio headless utilizando React Native y Next.js."
       ],
@@ -92,7 +92,7 @@
       "jobs": [
         {
           "company": "Sofka",
-          "role": "Senior Mobile Engineer",
+          "role": "Middle Mobile Engineer",
           "period": "Oct 2024 – Feb 2026",
           "description": [
             "Lideré el desarrollo de la app móvil de banca (Diners) para clientes premium, mejorando la seguridad y escalabilidad con React Native.",
@@ -114,7 +114,7 @@
         },
         {
           "company": "Broken Rubik",
-          "role": "Senior Software Developer",
+          "role": "Middle Software Developer",
           "period": "Nov 2022 – Mar 2024",
           "description": [
             "Lideré el desarrollo de una plataforma e-commerce headless integrada con Medusa y NetSuite, mejorando la modularidad y escalabilidad.",
@@ -132,7 +132,7 @@
         },
         {
           "company": "Globant",
-          "role": "Senior Mobile & Web UI Developer",
+          "role": "Middle Mobile & Web UI Developer",
           "period": "Dic 2021 – Nov 2022",
           "description": [
             "Desarrollé la aplicación móvil para Alsea España, aumentando la eficiencia operativa en 40% mediante mejoras de UX y automatización.",
@@ -484,7 +484,7 @@
       "subtitle": "Ya sea que necesites una aplicación móvil, una plataforma web o un equipo técnico reforzado, estoy aquí para ayudar. Enviame un mensaje y conversemos sobre tu proyecto.",
       "email": "Email",
       "location": "Ubicación",
-      "locationValue": "Buenos Aires, Argentina",
+      "locationValue": "Chaco, Argentina",
       "directConnect": "O conecta directamente",
       "sendEmail": "Enviar email",
       "form": {
@@ -499,7 +499,7 @@
       }
     },
     "footer": {
-      "role": "Senior Frontend & Mobile Engineer",
+      "role": "Middle Frontend & Mobile Engineer",
       "rights": "Todos los derechos reservados."
     }
   },
@@ -530,14 +530,14 @@
     },
     "hero": {
       "available": "Available for remote work — LATAM / Worldwide",
-      "name": "Yann Muñoz",
-      "role": "Senior Frontend & Mobile Engineer",
+      "name": "Zukog",
+      "role": "Middle Frontend & Mobile Engineer",
       "description": "Specialized in fintech, mobile banking, and scalable platforms with 4+ years experience.",
-      "location": "Buenos Aires, Argentina",
+      "location": "Chaco, Argentina",
       "cta": "Schedule a call",
       "ctaSecondary": "View Experience",
       "stackLine": "React Native • TypeScript • Next.js • Fintech • Mobile Payments • SaaS",
-      "codeComment": "// Senior Frontend & Mobile Engineer",
+      "codeComment": "// Middle Frontend & Mobile Engineer",
       "stats": {
         "years": "Years of experience",
         "code": "Fintech Projects"
@@ -552,12 +552,12 @@
     },
     "about": {
       "sectionLabel": "// Profile",
-      "title": "Senior React Native & Frontend Engineer",
-      "photoName": "Yann Muñoz",
-      "photoRole": "Senior Frontend & Mobile Engineer",
-      "photoLocation": "Buenos Aires, Argentina",
+      "title": "Middle React Native & Frontend Engineer",
+      "photoName": "Zukog",
+      "photoRole": "Middle Frontend & Mobile Engineer",
+      "photoLocation": "Chaco, Argentina",
       "paragraphs": [
-        "Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.",
+        "Middle React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.",
         "focus on performance, maintainability and user experience.",
         " Experienced working in remote product teams delivering mobile banking, payments, QR transactions and headless commerce platforms using React Native and Next.js."
       ],
@@ -596,7 +596,7 @@
       "jobs": [
         {
           "company": "Sofka",
-          "role": "Senior Mobile Engineer",
+          "role": "Middle Mobile Engineer",
           "period": "Oct 2024 – Feb 2026",
           "description": [
             "Led development of the mobile banking app (Diners) for premium clients, significantly improving security and scalability with React Native.",
@@ -618,7 +618,7 @@
         },
         {
           "company": "Broken Rubik",
-          "role": "Senior Software Developer",
+          "role": "Middle Software Developer",
           "period": "Nov 2022 – Mar 2024",
           "description": [
             "Led development of a headless e-commerce platform integrated with Medusa and NetSuite, improving modularity and scalability.",
@@ -636,7 +636,7 @@
         },
         {
           "company": "Globant",
-          "role": "Senior Mobile & Web UI Developer",
+          "role": "Middle Mobile & Web UI Developer",
           "period": "Dec 2021 – Nov 2022",
           "description": [
             "Developed a mobile app for Alsea Spain, increasing operational efficiency by 40% through UX improvements and automation.",
@@ -988,7 +988,7 @@
       "subtitle": "Whether you need a mobile app, a web platform, or a reinforced technical team, I'm here to help. Send me a message and let's discuss your project.",
       "email": "Email",
       "location": "Location",
-      "locationValue": "Buenos Aires, Argentina",
+      "locationValue": "Chaco, Argentina",
       "directConnect": "Or connect directly",
       "sendEmail": "Send email",
       "form": {
@@ -1003,7 +1003,7 @@
       }
     },
     "footer": {
-      "role": "Senior Frontend & Mobile Engineer",
+      "role": "Middle Frontend & Mobile Engineer",
       "rights": "All rights reserved."
     }
   }

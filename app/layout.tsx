@@ -15,20 +15,20 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://yannmunoz.netlify.app/'),
+  metadataBase: new URL('https://zukogmunoz.netlify.app/'),
   title: {
-    default: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
-    template: '%s | Yann Muñoz'
+    default: 'Zukog | Middle Frontend & Mobile Engineer',
+    template: '%s | Zukog'
   },
-  description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across LATAM and Europe.',
+  description: 'Middle React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products used by thousands of users across US, LATAM and Europe.',
   keywords: ['Software Engineer', 'React', 'React Native', 'Mobile Developer', 'Fullstack', 'TypeScript', 'Next.js', 'Fintech', 'Clean Architecture'],
-  authors: [{ name: 'Yann Muñoz' }],
-  creator: 'Yann Muñoz',
+  authors: [{ name: 'Zukog' }],
+  creator: 'Zukog',
   openGraph: {
-    title: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
-    description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
-    url: 'https://yannmunoz.netlify.app/',
-    siteName: 'Yann Muñoz Portfolio',
+    title: 'Zukog | Middle Frontend & Mobile Engineer',
+    description: 'Middle React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
+    url: 'https://zukogmunoz.netlify.app/',
+    siteName: 'Zukog Portfolio',
     locale: 'es_ES',
     type: 'website',
     images: [
@@ -36,18 +36,18 @@ export const metadata: Metadata = {
         url: '/icon.svg',
         width: 1200,
         height: 630,
-        alt: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
+        alt: 'Zukog | Middle Frontend & Mobile Engineer',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Yann Muñoz | Senior Frontend & Mobile Engineer',
-    description: 'Senior React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
+    title: 'Zukog | Middle Frontend & Mobile Engineer',
+    description: 'Middle React Native & Frontend Engineer with 4+ years building fintech, e-commerce and SaaS products.',
     images: ['/icon.svg'],
   },
   alternates: {
-    canonical: 'https://yannmunoz.netlify.app',
+    canonical: 'https://zukogmunoz.netlify.app/',
     languages: {
       'es-ES': '/?lang=es',
       'en-US': '/?lang=en',

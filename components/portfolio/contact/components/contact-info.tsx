@@ -47,15 +47,15 @@ export const ContactInfo = () => {
         {
             icon: Mail,
             label: t.contact.email,
-            value: "yannm.dev@gmail.com",
-            link: "mailto:yannm.dev@gmail.com",
+            value: "zukogmunoz@gmail.com",
+            link: "mailto:zukogmunoz@gmail.com",
             isLink: true,
         },
         {
             icon: Linkedin,
             label: "LinkedIn",
-            value: "linkedin.com/in/yannmunoz",
-            link: "https://linkedin.com/in/yannmunoz",
+            value: "linkedin.com/in/zukogmunoz",
+            link: "https://linkedin.com/in/zukogmunoz",
             isLink: true,
         },
         {
