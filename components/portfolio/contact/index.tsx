@@ -10,7 +10,7 @@ import { QuickLinks } from "./components/quick-links";
  */
 export function Contact() {
   return (
-    <section id="contact" className="py-24 px-6">
+    <section id="contact" className="py-12 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-16">
           {/* Left - Info */}

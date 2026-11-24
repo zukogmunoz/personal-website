@@ -12,7 +12,7 @@ export function Experience() {
   const { sectionLabel, title, jobs } = useExperienceData()
 
   return (
-    <section id="experience" className="py-24 px-6 bg-card/30">
+    <section id="experience" className="py-12 px-6 bg-card/30">
       <div className="max-w-6xl mx-auto">
         <div className="space-y-2 mb-16">
           <p className="text-primary font-mono text-sm">{sectionLabel}</p>

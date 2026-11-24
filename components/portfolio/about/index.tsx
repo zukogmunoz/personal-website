@@ -27,7 +27,7 @@ export function About() {
             </div>
 
             <AboutPhoto
-              imageSrc="/images/nalu-profile.jpg"
+              imageSrc="/images/profile.jpg"
               alt="Middle React Native & Frontend Engineer"
               name={t.about.photoName}
               role={t.about.photoRole}

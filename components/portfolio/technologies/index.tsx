@@ -12,7 +12,7 @@ export function Skills() {
   const t = useSkillsTranslations();
 
   return (
-    <section id="skills" className="py-24 px-6">
+    <section id="skills" className="py-12 px-6">
       <div className="max-w-6xl mx-auto">
         <SkillsHeader
           sectionLabel={t.sectionLabel}
